@@ -1,1 +1,4 @@
-
+In this project, fake data was generated using Faker. This dataset contains Name, Address, Email, Age, Salary, and Phone information. 
+The K_means clustering model is used to cluster Age and Salary. Here, 10 clusters are used as the data was fake. MinMax scaler is used to
+scale the age and salary data. Later, a scatter plot has been drawn to see the cluster. Finally, the Sum of squared error is calculated to \
+find the elbow plot.
